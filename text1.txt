@@ -4,14 +4,7 @@ dev
 etc
 home
 initrd.img
-lib
-lib64
-lost+found
-media
-mnt
-opt
-proc
-root
+testetsetsetsetsetsetsetsetsetstesesetsetsetestsetsetsets
 run
 sbin
 selinux
