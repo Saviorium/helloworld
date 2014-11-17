@@ -1,0 +1,16 @@
+bin
+boot
+dev
+etc
+home
+initrd.img
+testetsetsetsetsetsetsetsetsetstesesetsetsetestsetsetsets
+run
+sbin
+selinux
+srv
+sys
+tmp
+usr
+var
+vmlinuz
